@@ -1,0 +1,32 @@
+[
+	{
+		"Name": "README.md",
+		"Path": "./README.md",
+		"Hash": "89487fbc9a45172dcf444e5047b77ad9109235a6e5f6423ceffde4892780f234"
+	},
+	{
+		"Name": "crud.go",
+		"Path": "./crud.go",
+		"Hash": "48b465e8808e28639e82e91745b3f9facdb0d710ed7ae8a290a9a455b3409b6a"
+	},
+	{
+		"Name": "go.mod",
+		"Path": "./go.mod",
+		"Hash": "e927790d8e29f30b6f3c6d4e8a9ffd3282bc3e3bc14107e56a3db8fb5e9032c5"
+	},
+	{
+		"Name": "lnoFileChecking",
+		"Path": "./lnoFileChecking",
+		"Hash": "fa8e4a54a908328c6264a97ae9b90ae6f06cd6506f48b008c13afb1981b064c3"
+	},
+	{
+		"Name": "main.go",
+		"Path": "./main.go",
+		"Hash": "160dea5acaae4b24eca2ebe678c9016bde197e7bbc32737c1f76425a571b4218"
+	},
+	{
+		"Name": "verify.go",
+		"Path": "./verify.go",
+		"Hash": "6256acf97c4f07bbdadbb75018185415c61fd51a64b8987bdb3e01f3be649fa9"
+	}
+]
